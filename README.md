@@ -4,7 +4,7 @@
 
 ![Screenshot](Screenshot.png)
 
-This is a test project to demonstrate using gh-pages with Angular.
+This is a test project to demostrate the using of gh-pages with Angular.
 
 ## Get started
 
