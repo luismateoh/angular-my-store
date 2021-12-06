@@ -2,6 +2,8 @@
 
 [Demo](https://luismateoh.github.io/angular-my-store/)
 
+![Screenshot](Screenshot.png)
+
 This is a test project to demonstrate using gh-pages with Angular.
 
 ## Get started
